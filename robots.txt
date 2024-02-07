@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://askthecode.github.io/sitemap.xml.gz
+Sitemap: https://kodaneflash.github.io/sitemap.xml.gz
