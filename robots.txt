@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://askthecode.github.io/sitemap.xml.gz
