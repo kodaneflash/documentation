@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kodaneflash.github.io/sitemap.xml.gz
+Sitemap: https://kodaneflash.github.io/documentation/sitemap.xml.gz
