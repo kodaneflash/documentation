@@ -1,12 +1,11 @@
 input: docs
-output: docs-ui
+output: docs/ui
 url: kodaneflash.github.io
 favicon: /resources/logo.jpg
 
 branding:
   title: AskTheCode
   label: Docs
-  logo: /resources/logo.jpg
   logoAlign: left
 
 editor:
@@ -14,10 +13,6 @@ editor:
 
 generator:
   paths: root
-
-integrations:
-  googleAnalytics:
-    id: "G-S098PCC0NL"
 
 links:
 - text: AskTheCode GPT
